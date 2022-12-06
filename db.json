@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "code": 200,
+    "error": false,
+    "message": "Data berhasil ditemukan"
+  },
+  "data": [
+    {
+      "question": "Siapakah nama anda?",
+      "a": "Burhan",
+      "b": "Yuswantyo",
+      "c": "Nugroho",
+      "answer": "a"
+    },
+    {
+      "question": "Siapakah nama anda?",
+      "a": "Burhan",
+      "b": "Yuswantyo",
+      "c": "Nugroho",
+      "answer": "c"
+    },
+    {
+      "question": "Siapakah nama anda?",
+      "a": "Burhan",
+      "b": "Yuswantyo",
+      "c": "Nugroho",
+      "answer": "b"
+    },
+    {
+      "question": "Siapakah nama anda?",
+      "a": "Burhan",
+      "b": "Yuswantyo",
+      "c": "Nugroho",
+      "answer": "a"
+    },
+    {
+      "question": "Siapakah nama anda?",
+      "a": "Burhan",
+      "b": "Yuswantyo",
+      "c": "Nugroho",
+      "answer": "c"
+    }
+  ]
+}
