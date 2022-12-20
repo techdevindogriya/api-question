@@ -6,94 +6,22 @@
   },
   "data": [
     {
-      "question": "Bahasa yang digunakan pada bahasa pemrograman tingkat rendah adalah",
+      "question": "Apakah anda seorang sales agent?",
       "option": [
         {
           "label": "A",
-          "answer": "Mesin"
+          "answer": "Ya"
         },
         {
           "label": "B",
-          "answer": "Basic"
+          "answer": "Tidak"
         },
         {
           "label": "C",
-          "answer": "Pascal"
+          "answer": "Tidak Tahu"
         }
       ],
       "answer": "A"
-    },
-    {
-      "question": "Sebuah komponen fisik pada computer yang digunakan oleh sistem untuk menjalankan perintah yang telah diprogram disebut",
-      "option": [
-        {
-          "label": "A",
-          "answer": "VGA"
-        },
-        {
-          "label": "B",
-          "answer": "RAM"
-        },
-        {
-          "label": "C",
-          "answer": "Hardware "
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "question": "Membuat program-program yang diperlukan pada sistem komputerisasi yang akan dirancang merupakan tugas dari",
-      "option": [
-        {
-          "label": "A",
-          "answer": "Operator"
-        },
-        {
-          "label": "B",
-          "answer": "Programmer"
-        },
-        {
-          "label": "C",
-          "answer": "Administrator"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "question": "Fungsi perangkat proses adalah",
-      "option": [
-        {
-          "label": "A",
-          "answer": "Menampilkan hasil yang telah diolah oleh computer dan selanjutnya diberikan pada pengguna"
-        },
-        {
-          "label": "B",
-          "answer": "Memproses input yang diberikan oleh pengguna"
-        },
-        {
-          "label": "C",
-          "answer": "Memasukkan input dari pengguna yang akan diproses oleh computer"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "question": "Fedora adalah contoh perangkat lunak dari sistem operasi",
-      "option": [
-        {
-          "label": "A",
-          "answer": "Android"
-        },
-        {
-          "label": "B",
-          "answer": "Palm"
-        },
-        {
-          "label": "C",
-          "answer": "Linux"
-        }
-      ],
-      "answer": "C"
     }
   ]
 }
